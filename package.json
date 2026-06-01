@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^1.13.2",
+    "bcryptjs": "^3.0.3",
+    "bull": "^4.16.5",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.2.3",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "grok-sdk": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.4",
+    "node": "^24.13.0",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.12",
+    "pdfkit": "^0.17.2",
+    "redis": "^5.10.0",
+    "socket.io": "^4.8.3",
+    "vite": "^7.3.0"
+  }
+}
